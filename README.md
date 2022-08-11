@@ -4,7 +4,7 @@
 - 注意:在生产环境改回true
 <img src='./assets/1.jpg' />
 
-```bash
+```javascript
 optimization: {
    minimize: false
  }
